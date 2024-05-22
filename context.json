@@ -1,0 +1,601 @@
+{
+    "AES": {
+        "chat_gpt": "AES Corporation is diversifying its energy portfolio with investments in nuclear power to meet the rising energy demands.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "BWXT": {
+        "chat_gpt": "BWX Technologies provides nuclear components and services, benefiting indirectly from the increased demand for nuclear energy.",
+        "claude": "BWX Technologies' components and services for the nuclear power industry could see increased demand as AI drives the need for robust energy solutions.",
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/gregorybent/status/1776673519083889141",
+                "text": "Data centers look to nuclear to meet rising power needs | Reuters Events | Nuclear $ALCC $CCJ $URA $SMR $BWXT $URNM $NVDA $GOOG $AMZN $MSFT $IBM $AVGO  https://t.co/fwjO3E5ro5",
+                "username": "gregorybent",
+                "user_url": "https://twitter.com/gregorybent",
+                "user_image_url": "https://pbs.twimg.com/profile_images/2285363180/image_normal.jpg",
+                "date": "2024-04-06T18:09:10Z"
+            },
+            {
+                "url": "https://twitter.com/chartsmarter/status/1775180853871554734",
+                "text": "Nuclear plays I think will be well bid for longer term shareholders. $CCJ acting well since we wrote it up in the WEEK AHEAD Note 2 weeks ago. Rotation out of tech into materials, industrials and energy. #nuclear #materials $XLB $SPX #StockMarket $URA $CEG $UEC $BWXT",
+                "username": "chartsmarter",
+                "user_url": "https://twitter.com/chartsmarter",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1433948976055832576/Uf9byCPi_normal.jpg",
+                "date": "2024-04-02T15:17:51Z"
+            }
+        ]
+    },
+    "D": {
+        "chat_gpt": "Dominion Energy is expanding its nuclear energy capabilities to provide more sustainable energy solutions.",
+        "claude": "Dominion Energy's nuclear power plants and investments in new nuclear projects could benefit from increased demand driven by AI.",
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "DUK": {
+        "chat_gpt": "Duke Energy operates a significant number of nuclear power plants and is expanding its sustainable energy portfolio.",
+        "claude": "Duke Energy's nuclear power plants and investments in new nuclear technologies could become more important as AI adoption grows.",
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "ETR": {
+        "chat_gpt": "Entergy Corporation operates several nuclear power plants and is poised to benefit from the trend towards sustainable energy solutions.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "EXC": {
+        "chat_gpt": "Exelon Corporation is one of the largest nuclear power plant operators in the U.S., benefiting directly from the trend towards sustainable energy.",
+        "claude": "As one of the largest nuclear power plant operators in the US, Exelon could benefit from increased demand driven by AI adoption.",
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/sustainable-investing/want-invest-nuclear-energy-true-winner-is-found-these-funds",
+                "title": "Want to Invest in Nuclear Energy? The True Winner Is ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "FLR": {
+        "chat_gpt": "Fluor Corporation is involved in the construction and maintenance of nuclear power plants, benefiting indirectly from the increased demand.",
+        "claude": "Fluor's engineering and construction services for the nuclear power industry could benefit from increased investment driven by AI energy needs.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GE": {
+        "chat_gpt": "General Electric supplies nuclear reactors and technology, indirectly benefiting from the growth in nuclear energy.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/energy/nuclear/",
+                "title": "Investing in Nuclear Energy Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://small-modular-reactors.org/list-of-20-smr-companies/",
+                "title": "List of 20 SMR Companies | Reactor designs",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.ans.org/news/article-5451/investment-opportunities-for-nuclear-energy/",
+                "title": "Investment opportunities for nuclear energy",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "HON": {
+        "chat_gpt": "Honeywell International provides control systems and technology for nuclear power plants, benefiting indirectly from the trend.",
+        "claude": "Honeywell's technologies and services for the nuclear power industry could see increased demand driven by AI energy needs.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "NEE": {
+        "chat_gpt": "NextEra Energy is a leader in renewable energy and is investing heavily in sustainable energy solutions, including nuclear power.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "PCG": {
+        "chat_gpt": "Pacific Gas and Electric Company operates nuclear power plants and is investing in sustainable energy infrastructure.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "SO": {
+        "chat_gpt": "Southern Company is investing in nuclear energy projects to meet the growing demand for sustainable energy solutions.",
+        "claude": "Southern Company's nuclear power plants and exploration of new nuclear technologies could benefit from AI-driven energy needs.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "SRE": {
+        "chat_gpt": "Sempra Energy is involved in various sustainable energy projects, including nuclear power, to support the increasing energy demands driven by AI integration.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "WEC": {
+        "chat_gpt": "WEC Energy Group is investing in nuclear energy projects to support the growing need for sustainable energy solutions.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=Zr1ecjYFYTo",
+                "title": "Small Modular Nuclear Reactors. The Verdict",
+                "youtube_embed_url": "https://www.youtube.com/embed/Zr1ecjYFYTo"
+            },
+            {
+                "url": "https://small-modular-reactors.org/list-of-20-smr-companies/",
+                "title": "List of 20 SMR Companies | Reactor designs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "XEL": {
+        "chat_gpt": "Xcel Energy is committed to increasing its nuclear energy capacity as part of its sustainable energy strategy.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMZN": {
+        "chat_gpt": null,
+        "claude": "Amazon's AWS, a major provider of AI services, could benefit from the use of nuclear power as part of its commitment to 100% renewable energy.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/nitebreak/status/1773780678649286877",
+                "text": "\ud83c\udf10 NUCLEAR SOLID RETURNS OF 2% - 7% FOR MARCH\n\nMy $AMZN nuclear post ON 3/6 had extremely low views and it was a story ignored by mainstream media. Along comes Biden and now nuclear is hot \ud83d\ude02\n\n$CCJ $URNM $URA $UUUU $DNN price summary below as of 3/6 when I posted about $AMZN.  Stories embedded below.\n\nI personally like $CCJ and am still long.\n\nUranium futures, don't touch, they are highly illiquid.",
+                "username": "nitebreak",
+                "user_url": "https://twitter.com/nitebreak",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1750432026732208128/KwwaHRsm_normal.jpg",
+                "date": "2024-03-29T18:34:03Z"
+            },
+            {
+                "url": "https://twitter.com/gregorybent/status/1776673519083889141",
+                "text": "Data centers look to nuclear to meet rising power needs | Reuters Events | Nuclear $ALCC $CCJ $URA $SMR $BWXT $URNM $NVDA $GOOG $AMZN $MSFT $IBM $AVGO  https://t.co/fwjO3E5ro5",
+                "username": "gregorybent",
+                "user_url": "https://twitter.com/gregorybent",
+                "user_image_url": "https://pbs.twimg.com/profile_images/2285363180/image_normal.jpg",
+                "date": "2024-04-06T18:09:10Z"
+            },
+            {
+                "url": "https://twitter.com/mk_outofthebox/status/1769693866104328582",
+                "text": "\ud83c\udf31 The \"Tech-Greening\": Amazon's Atomic Leap and The Nuclear Renaissance! $AMZN $URNM $URA \ud83c\udf31\n\nLadies and gentlemen, hold onto your atoms, because Amazon has just gone nuclear!\n\n\ud83d\udd0b The Power Move: Amazon's Nuclear-Powered Data Center \ud83d\udd0b\n\nBig Tech's Power Hunger: Amazon Web Services (AWS) has snagged a nuclear-powered data center in Pennsylvania. Why? Because like a teenager's stomach, Big Tech's energy appetite is never-ending.\n\nNuclear Deal Specs: It\u2019s a $650 million handshake with Talen Energy's Susquehanna plant. This decade-long power-purchase agreement is Amazon's first nuclear rodeo and is sparking quite the conversation about energy sourcing.\n\nThe Big Picture: The move syncs up with rising positive vibes towards nuclear energy. At the COP28 summit, a nuclear lovefest ensued with 22 countries pledging to triple nuclear generation by 2050. \ud83c\udfed\u27a1\ufe0f\ud83d\udc9a\n\n\ud83d\udc40 Tech Giants: The New Nuclear Patrons? \ud83d\udc40\n\nAI's Insatiable Thirst: Artificial intelligence needs juice. Lots of it. The International Energy Agency projects a power demand surge, thanks to data centers, AI, and crypto. We're talking about needing Japan-levels of electricity by 2026!\n\nSilicon Valley's Atomic Enthusiasts: Tech leaders like Bill Gates and Sam Altman are already on the nuclear bandwagon. Their startups are aiming to make nuclear tech more accessible and cost-effective. \ud83d\ude80\n\nNuclear's 24/7 Charm: Unlike the sometimes-sleepy sun and wind power, nuclear energy is the Energizer Bunny of power sources. It just keeps going, offering the tech world a non-stop energy elixir with a stable price tag. \ud83d\udcb8\n\n\ud83d\udcc8 Implications for Growth and the Environment \ud83d\udcc8\n\nRenewable Energy Leaderboard: Amazon is already the Michael Jordan of renewable energy buying. Their clean energy game is stronger than entire countries', making their nod towards nuclear a potential game-changer. \ud83c\udf0d\n\nData Centers and Direct Juice: Cozying up to a power source is like a super-speed internet connection for data centers. It\u2019s efficient, and there's less that can go wrong, which is music to a tech company's ears. \ud83c\udfb6\n\nNew Plants on the Horizon?: The question is, will Amazon's move inspire the birth of new nuclear plants, or is this a one-off flirtation with the atom? Time and Amazon\u2019s next power plays will tell. \u231b\n\n\ud83d\udd2e Looking Ahead: A Tech-Powered Nuclear Future? \ud83d\udd2e\nAs we zoom out on Amazon's atomic shift, here's the hot goss from the energy grapevine:\n\nEnergy Shopping Spree: If tech giants continue to throw their weight behind nuclear, we could see a surge in new plants and innovations.\n\nTech and Public Policy Tango: Tech companies aren't just building server farms; they're plowing through red tape and influencing energy policy. It's a two-step dance that could lead to cleaner, more reliable power grids. \ud83d\udc83\ud83d\udd7a\n\nNuclear's Cool Again: Between environmentalists giving nuclear a second chance and tech giants opening their hearts and wallets, we're witnessing a nuclear renaissance that could be as trendsetting as the latest iPhone.\n\nSo, whether you're a techie, an environmentalist, or just someone who enjoys watching companies shake things up, keep an eye on this space. The future isn't just bright; it's nuclear. \u2622\ufe0f\n\nStay tuned for more economic and market insights, and don't forget to charge your devices (maybe soon with nuclear energy!) \ud83d\udc9a\ud83d\udd0c\n\n#AmazonGoesNuclear #CleanEnergy #TechTrends",
+                "username": "mk_outofthebox",
+                "user_url": "https://twitter.com/mk_outofthebox",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1777744062348414976/JrTIDz3c_normal.jpg",
+                "date": "2024-03-18T11:54:31Z"
+            }
+        ]
+    },
+    "CCJ": {
+        "chat_gpt": null,
+        "claude": "Cameco, a major uranium producer, could see increased demand as nuclear power becomes more important for meeting AI energy needs.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/energy/nuclear/",
+                "title": "Investing in Nuclear Energy Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.ans.org/news/article-5451/investment-opportunities-for-nuclear-energy/",
+                "title": "Investment opportunities for nuclear energy",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/discover/nuclear-energy",
+                "title": "Nuclear Energy Stocks and ETFs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/SamanthaLaDuc/status/1773170122959581458",
+                "text": "Energy Infrastructure - Good for Nuclear/Uranium \n\n$URA $CCJ",
+                "username": "SamanthaLaDuc",
+                "user_url": "https://twitter.com/SamanthaLaDuc",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1655267338973769729/a2_Y6_v0_normal.jpg",
+                "date": "2024-03-28T02:07:55Z"
+            },
+            {
+                "url": "https://twitter.com/CEOTechnician/status/1775254535444844605",
+                "text": "Monday morning, Goldman Sachs upgraded Cameco to a BUY with a US$55 12-month price target. \n\nGoldman sees $CCJ's earnings more than doubling by the end of 2026 as strong #uranium &amp; nuclear fuel demand drives a robust pricing environment for Cameco's products &amp; services. $URA https://t.co/i9zAD1yr2u",
+                "username": "CEOTechnician",
+                "user_url": "https://twitter.com/CEOTechnician",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1617922916389093384/K42SKFqt_normal.jpg",
+                "date": "2024-04-02T20:10:38Z"
+            },
+            {
+                "url": "https://twitter.com/HoffpaulPaul/status/1772238298167001419",
+                "text": "The energy landscape, like it or not, is going nuclear.\nMay as well find the right investment.\n$UUUU $CCJ $URA $NXE #Uranium @quakes99 \n\nhttps://t.co/lRhrZMh8Ei",
+                "username": "HoffpaulPaul",
+                "user_url": "https://twitter.com/HoffpaulPaul",
+                "user_image_url": "https://pbs.twimg.com/profile_images/520281539046019072/riM7lsNM_normal.jpeg",
+                "date": "2024-03-25T12:25:11Z"
+            }
+        ]
+    },
+    "CEG": {
+        "chat_gpt": null,
+        "claude": "Constellation Energy's nuclear power plants could benefit from increased demand driven by the growth of AI.",
+        "search_articles": [
+            {
+                "url": "https://www.barrons.com/articles/ai-nuclear-power-stocks-8852a830",
+                "title": "AI Is Giving Nuclear Power a Big Lift. 4 Stocks Riding the Trend.",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/sustainable-investing/want-invest-nuclear-energy-true-winner-is-found-these-funds",
+                "title": "Want to Invest in Nuclear Energy? The True Winner Is ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CW": {
+        "chat_gpt": null,
+        "claude": "Curtiss-Wright's components and services for the nuclear power industry could benefit from increased investment driven by AI adoption.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GOOGL": {
+        "chat_gpt": null,
+        "claude": "Alphabet's Google, a leader in AI research and development, could benefit from more sustainable energy sources like nuclear power for its energy-intensive data centers.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "IBM": {
+        "chat_gpt": null,
+        "claude": "IBM's AI hardware and software, along with its energy-intensive data centers, could benefit from the increased use of nuclear power.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "MSFT": {
+        "chat_gpt": null,
+        "claude": "Microsoft's investments in AI across its products and services, coupled with its commitment to sustainable energy, could drive interest in nuclear power.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "NVDA": {
+        "chat_gpt": null,
+        "claude": "Nvidia's AI hardware and software will be crucial for AI development and deployment, driving the need for robust energy solutions like nuclear power.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/gregorybent/status/1776673519083889141",
+                "text": "Data centers look to nuclear to meet rising power needs | Reuters Events | Nuclear $ALCC $CCJ $URA $SMR $BWXT $URNM $NVDA $GOOG $AMZN $MSFT $IBM $AVGO  https://t.co/fwjO3E5ro5",
+                "username": "gregorybent",
+                "user_url": "https://twitter.com/gregorybent",
+                "user_image_url": "https://pbs.twimg.com/profile_images/2285363180/image_normal.jpg",
+                "date": "2024-04-06T18:09:10Z"
+            },
+            {
+                "url": "https://twitter.com/risenfit/status/1770493780141183219",
+                "text": "$SMR $SPY $QQQ $NVDA $AAPL $TSLA $IWM $IWN $VOX $IBUY $IBB $XBI #Btc $WGMI $GLD $URA #Nuclear $NLR $NUKZ\n\n$SMR \ud83d\udc47\n#BalanceSheet: \nCash position: $125.2M \nDebt: None. \n\nThe company had $273M in cash & cash eqv. At the end of 2022 versus 2023E at $125M. \n\n#Earnings 2023 full year. \nRevenue: $22.8M \nNet Loss: -$(180M) \n\nThe company is operating on a negative cash flow basis. \nLosses have been increasing YoY. \n\n#InvestorHighLights \n1. \nThe NRC will complete its review and SDA approval to be received by July 31, 2025.\n\n2. \nThe Company is majority owned by Fluor Enterprises,\u00a0Inc., a subsidiary of Fluor Corporation. $FLR\n\n3. \nInsiderSelling (144 filings) \nTemple Robert K,  Engel Jacqueline F.,  Reyes Jose N Jr,   Scott Clayton,  Hopkins John Lawrence & Adelman Julie  All reported selling  shares on 2/29/2024 and 3/15/2024. \nhttps://t.co/B2e1M0OKyE\n\n4. \nThere is a current & active 150M At-The-Market Offering in place. \nhttps://t.co/29xTbOIdam",
+                "username": "risenfit",
+                "user_url": "https://twitter.com/risenfit",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776687473873313793/LPAmsBlU_normal.jpg",
+                "date": "2024-03-20T16:53:06Z"
+            }
+        ]
+    },
+    "SMR": {
+        "chat_gpt": null,
+        "claude": "NuScale Power's small modular nuclear reactors could provide flexible, scalable energy solutions for AI applications.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=Zr1ecjYFYTo",
+                "title": "Small Modular Nuclear Reactors. The Verdict",
+                "youtube_embed_url": "https://www.youtube.com/embed/Zr1ecjYFYTo"
+            },
+            {
+                "url": "https://www.nuscalepower.com/",
+                "title": "NuScale Power | Small Modular Reactor (SMR) Nuclear ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://c3newsmag.com/five-of-the-worlds-leading-small-modular-reactor-companies/",
+                "title": "Five of the World's Leading Small Modular Reactor Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/gregorybent/status/1776673519083889141",
+                "text": "Data centers look to nuclear to meet rising power needs | Reuters Events | Nuclear $ALCC $CCJ $URA $SMR $BWXT $URNM $NVDA $GOOG $AMZN $MSFT $IBM $AVGO  https://t.co/fwjO3E5ro5",
+                "username": "gregorybent",
+                "user_url": "https://twitter.com/gregorybent",
+                "user_image_url": "https://pbs.twimg.com/profile_images/2285363180/image_normal.jpg",
+                "date": "2024-04-06T18:09:10Z"
+            },
+            {
+                "url": "https://twitter.com/risenfit/status/1770493780141183219",
+                "text": "$SMR $SPY $QQQ $NVDA $AAPL $TSLA $IWM $IWN $VOX $IBUY $IBB $XBI #Btc $WGMI $GLD $URA #Nuclear $NLR $NUKZ\n\n$SMR \ud83d\udc47\n#BalanceSheet: \nCash position: $125.2M \nDebt: None. \n\nThe company had $273M in cash & cash eqv. At the end of 2022 versus 2023E at $125M. \n\n#Earnings 2023 full year. \nRevenue: $22.8M \nNet Loss: -$(180M) \n\nThe company is operating on a negative cash flow basis. \nLosses have been increasing YoY. \n\n#InvestorHighLights \n1. \nThe NRC will complete its review and SDA approval to be received by July 31, 2025.\n\n2. \nThe Company is majority owned by Fluor Enterprises,\u00a0Inc., a subsidiary of Fluor Corporation. $FLR\n\n3. \nInsiderSelling (144 filings) \nTemple Robert K,  Engel Jacqueline F.,  Reyes Jose N Jr,   Scott Clayton,  Hopkins John Lawrence & Adelman Julie  All reported selling  shares on 2/29/2024 and 3/15/2024. \nhttps://t.co/B2e1M0OKyE\n\n4. \nThere is a current & active 150M At-The-Market Offering in place. \nhttps://t.co/29xTbOIdam",
+                "username": "risenfit",
+                "user_url": "https://twitter.com/risenfit",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776687473873313793/LPAmsBlU_normal.jpg",
+                "date": "2024-03-20T16:53:06Z"
+            }
+        ]
+    },
+    "TSLA": {
+        "chat_gpt": null,
+        "claude": "Tesla's investments in AI for autonomous vehicles and energy storage could benefit from the increased focus on sustainable energy sources like nuclear power.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "DNN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/uranium/largest-uranium-companies-by-marketcap/",
+                "title": "Largest Uranium companies by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JSpitTrades/status/1778104537326195007",
+                "text": "The AI megatrend can't happen without nuclear energy.\n\n$URA $CCJ $NXE $DNN https://t.co/ah5RlqTLhH",
+                "username": "JSpitTrades",
+                "user_url": "https://twitter.com/JSpitTrades",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1547400216646717441/ZPI_yqBp_normal.jpg",
+                "date": "2024-04-10T16:55:31Z"
+            },
+            {
+                "url": "https://twitter.com/TradingHurst/status/1790067934603169915",
+                "text": "Back to the interesting #uranium sector the progress of the prominent wave around 75 days average wavelength. Approaching the next trough iteration in the next week or two. \n\nComposite below of $UEC $CCJ $DNN $UUUU $URA and more.\n\nDetail: https://t.co/OOICwBp3pR https://t.co/igNlBU3Dzy",
+                "username": "TradingHurst",
+                "user_url": "https://twitter.com/TradingHurst",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1775813442974203904/AYcKPiZM_normal.jpg",
+                "date": "2024-05-13T17:13:48Z"
+            },
+            {
+                "url": "https://twitter.com/GDXTrader/status/1781414429424222359",
+                "text": "#Uranium \n\nIt's been a difficult week for the sector, with many stocks showing bullish setups but teetering on the edge.\n\n$URNM $URC $LEU $FUU $URC $UROY $CCJ $DNN $UUUU $URG $NXE $UEC $FCUUF $LTBR $NXE $URNJ $URA\n\n\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d",
+                "username": "GDXTrader",
+                "user_url": "https://twitter.com/GDXTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1751536974568050689/DsihK3q5_normal.jpg",
+                "date": "2024-04-19T20:07:51Z"
+            }
+        ]
+    },
+    "NXE": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/discover/nuclear-energy",
+                "title": "Nuclear Energy Stocks and ETFs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/HoffpaulPaul/status/1772238298167001419",
+                "text": "The energy landscape, like it or not, is going nuclear.\nMay as well find the right investment.\n$UUUU $CCJ $URA $NXE #Uranium @quakes99 \n\nhttps://t.co/lRhrZMh8Ei",
+                "username": "HoffpaulPaul",
+                "user_url": "https://twitter.com/HoffpaulPaul",
+                "user_image_url": "https://pbs.twimg.com/profile_images/520281539046019072/riM7lsNM_normal.jpeg",
+                "date": "2024-03-25T12:25:11Z"
+            },
+            {
+                "url": "https://twitter.com/JSpitTrades/status/1778104537326195007",
+                "text": "The AI megatrend can't happen without nuclear energy.\n\n$URA $CCJ $NXE $DNN https://t.co/ah5RlqTLhH",
+                "username": "JSpitTrades",
+                "user_url": "https://twitter.com/JSpitTrades",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1547400216646717441/ZPI_yqBp_normal.jpg",
+                "date": "2024-04-10T16:55:31Z"
+            },
+            {
+                "url": "https://twitter.com/GDXTrader/status/1781414429424222359",
+                "text": "#Uranium \n\nIt's been a difficult week for the sector, with many stocks showing bullish setups but teetering on the edge.\n\n$URNM $URC $LEU $FUU $URC $UROY $CCJ $DNN $UUUU $URG $NXE $UEC $FCUUF $LTBR $NXE $URNJ $URA\n\n\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d",
+                "username": "GDXTrader",
+                "user_url": "https://twitter.com/GDXTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1751536974568050689/DsihK3q5_normal.jpg",
+                "date": "2024-04-19T20:07:51Z"
+            }
+        ]
+    },
+    "UEC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/nuclear-energy-stocks-should-keep-on-raking-in-the-gains",
+                "title": "Nuclear Energy Stocks Should Keep on Raking in the Gains",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investingnews.com/daily/resource-investing/energy-investing/uranium-investing/largest-uranium-companies/",
+                "title": "Uranium Stocks: 5 Biggest Companies in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/discover/nuclear-energy",
+                "title": "Nuclear Energy Stocks and ETFs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TradingHurst/status/1790067934603169915",
+                "text": "Back to the interesting #uranium sector the progress of the prominent wave around 75 days average wavelength. Approaching the next trough iteration in the next week or two. \n\nComposite below of $UEC $CCJ $DNN $UUUU $URA and more.\n\nDetail: https://t.co/OOICwBp3pR https://t.co/igNlBU3Dzy",
+                "username": "TradingHurst",
+                "user_url": "https://twitter.com/TradingHurst",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1775813442974203904/AYcKPiZM_normal.jpg",
+                "date": "2024-05-13T17:13:48Z"
+            },
+            {
+                "url": "https://twitter.com/GDXTrader/status/1781414429424222359",
+                "text": "#Uranium \n\nIt's been a difficult week for the sector, with many stocks showing bullish setups but teetering on the edge.\n\n$URNM $URC $LEU $FUU $URC $UROY $CCJ $DNN $UUUU $URG $NXE $UEC $FCUUF $LTBR $NXE $URNJ $URA\n\n\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d",
+                "username": "GDXTrader",
+                "user_url": "https://twitter.com/GDXTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1751536974568050689/DsihK3q5_normal.jpg",
+                "date": "2024-04-19T20:07:51Z"
+            },
+            {
+                "url": "https://twitter.com/chartsmarter/status/1775180853871554734",
+                "text": "Nuclear plays I think will be well bid for longer term shareholders. $CCJ acting well since we wrote it up in the WEEK AHEAD Note 2 weeks ago. Rotation out of tech into materials, industrials and energy. #nuclear #materials $XLB $SPX #StockMarket $URA $CEG $UEC $BWXT",
+                "username": "chartsmarter",
+                "user_url": "https://twitter.com/chartsmarter",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1433948976055832576/Uf9byCPi_normal.jpg",
+                "date": "2024-04-02T15:17:51Z"
+            }
+        ]
+    },
+    "UUUU": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-strong-buy-rated-uranium-stocks-with-35-upside-or-more",
+                "title": "3 'Strong Buy'-Rated Uranium Stocks with 35% Upside or ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/uranium/largest-uranium-companies-by-marketcap/",
+                "title": "Largest Uranium companies by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/GDXTrader/status/1781414429424222359",
+                "text": "#Uranium \n\nIt's been a difficult week for the sector, with many stocks showing bullish setups but teetering on the edge.\n\n$URNM $URC $LEU $FUU $URC $UROY $CCJ $DNN $UUUU $URG $NXE $UEC $FCUUF $LTBR $NXE $URNJ $URA\n\n\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d",
+                "username": "GDXTrader",
+                "user_url": "https://twitter.com/GDXTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1751536974568050689/DsihK3q5_normal.jpg",
+                "date": "2024-04-19T20:07:51Z"
+            },
+            {
+                "url": "https://twitter.com/HoffpaulPaul/status/1772238298167001419",
+                "text": "The energy landscape, like it or not, is going nuclear.\nMay as well find the right investment.\n$UUUU $CCJ $URA $NXE #Uranium @quakes99 \n\nhttps://t.co/lRhrZMh8Ei",
+                "username": "HoffpaulPaul",
+                "user_url": "https://twitter.com/HoffpaulPaul",
+                "user_image_url": "https://pbs.twimg.com/profile_images/520281539046019072/riM7lsNM_normal.jpeg",
+                "date": "2024-03-25T12:25:11Z"
+            },
+            {
+                "url": "https://twitter.com/TradingHurst/status/1790067934603169915",
+                "text": "Back to the interesting #uranium sector the progress of the prominent wave around 75 days average wavelength. Approaching the next trough iteration in the next week or two. \n\nComposite below of $UEC $CCJ $DNN $UUUU $URA and more.\n\nDetail: https://t.co/OOICwBp3pR https://t.co/igNlBU3Dzy",
+                "username": "TradingHurst",
+                "user_url": "https://twitter.com/TradingHurst",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1775813442974203904/AYcKPiZM_normal.jpg",
+                "date": "2024-05-13T17:13:48Z"
+            }
+        ]
+    },
+    "BHP": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://investingnews.com/daily/resource-investing/energy-investing/uranium-investing/largest-uranium-companies/",
+                "title": "Uranium Stocks: 5 Biggest Companies in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/uranium-stocks:-5-biggest-companies-in-2024",
+                "title": "Uranium Stocks: 5 Biggest Companies in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CCO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.juniorminingnetwork.com/mining-stocks/uranium-mining-stocks.html",
+                "title": "List of Uranium Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "EU": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.juniorminingnetwork.com/mining-stocks/uranium-mining-stocks.html",
+                "title": "List of Uranium Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/uranium/largest-uranium-companies-by-marketcap/",
+                "title": "Largest Uranium companies by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PEG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.barrons.com/articles/ai-nuclear-power-stocks-8852a830",
+                "title": "AI Is Giving Nuclear Power a Big Lift. 4 Stocks Riding the Trend.",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/nuclear-energy-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Nuclear Energy Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "URG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-strong-buy-rated-uranium-stocks-with-35-upside-or-more",
+                "title": "3 'Strong Buy'-Rated Uranium Stocks with 35% Upside or ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/uranium/largest-uranium-companies-by-marketcap/",
+                "title": "Largest Uranium companies by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
