@@ -597,5 +597,17 @@
             }
         ],
         "tweets": []
+    },
+    "OKLO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Sam Altman's Nuclear Energy investment that went public through a SPAC. They are building small nuclear reactors. Oklo recently collaborated with Wyoming Hyperscale to supply clean power to a data center."
+            }
+        ]
     }
 }
