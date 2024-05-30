@@ -18,12 +18,8 @@ AMZN,"claude,twitter"
 CCJ,"claude,twitter,google"
 CEG,"claude,google"
 CW,claude
-GOOGL,claude
-IBM,claude
-MSFT,claude
 NVDA,"claude,twitter"
 SMR,"claude,twitter,google"
-TSLA,claude
 DNN,"twitter,google"
 NXE,"twitter,google"
 UEC,"twitter,google"
