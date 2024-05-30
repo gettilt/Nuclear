@@ -74,12 +74,8 @@ with open('theme.csv') as file:
 | CCJ | Cameco, a major uranium producer, could see increased demand as nuclear power becomes more important for meeting AI energy needs. | claude,twitter,google |
 | CEG | Constellation Energy's nuclear power plants could benefit from increased demand driven by the growth of AI. | claude,google |
 | CW | Curtiss-Wright's components and services for the nuclear power industry could benefit from increased investment driven by AI adoption. | claude |
-| GOOGL | Alphabet's Google, a leader in AI research and development, could benefit from more sustainable energy sources like nuclear power for its energy-intensive data centers. | claude |
-| IBM | IBM's AI hardware and software, along with its energy-intensive data centers, could benefit from the increased use of nuclear power. | claude |
-| MSFT | Microsoft's investments in AI across its products and services, coupled with its commitment to sustainable energy, could drive interest in nuclear power. | claude |
 | NVDA | Nvidia's AI hardware and software will be crucial for AI development and deployment, driving the need for robust energy solutions like nuclear power. | claude,twitter |
 | SMR | NuScale Power's small modular nuclear reactors could provide flexible, scalable energy solutions for AI applications. | claude,twitter,google |
-| TSLA | Tesla's investments in AI for autonomous vehicles and energy storage could benefit from the increased focus on sustainable energy sources like nuclear power. | claude |
 | DNN |  | twitter,google |
 | NXE |  | twitter,google |
 | UEC |  | twitter,google |
