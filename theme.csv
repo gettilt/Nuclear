@@ -1,8 +1,6 @@
 symbol,sources
 AES,chat_gpt
 BWXT,"chat_gpt,claude,twitter,google"
-D,"chat_gpt,claude,google"
-DUK,"chat_gpt,claude,google"
 ETR,"chat_gpt,google"
 EXC,"chat_gpt,claude,google"
 FLR,"chat_gpt,claude"
@@ -24,8 +22,7 @@ DNN,"twitter,google"
 NXE,"twitter,google"
 UEC,"twitter,google"
 UUUU,"twitter,google"
-BHP,google
 EU,google
-PEG,google
 URG,google
-OKLO, experts
+OKLO,experts
+VST,experts
