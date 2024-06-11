@@ -81,7 +81,6 @@ with open('theme.csv') as file:
 | UEC |  | twitter,google |
 | UUUU |  | twitter,google |
 | BHP |  | google |
-| CCO |  | google |
 | EU |  | google |
 | PEG |  | google |
 | URG |  | google |
