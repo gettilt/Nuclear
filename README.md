@@ -57,8 +57,6 @@ with open('theme.csv') as file:
 | ------- | ---- | ---- |
 | AES | AES Corporation is diversifying its energy portfolio with investments in nuclear power to meet the rising energy demands. | chat_gpt |
 | BWXT | BWX Technologies provides nuclear components and services, benefiting indirectly from the increased demand for nuclear energy. | chat_gpt,claude,twitter,google |
-| D | Dominion Energy is expanding its nuclear energy capabilities to provide more sustainable energy solutions. | chat_gpt,claude,google |
-| DUK | Duke Energy operates a significant number of nuclear power plants and is expanding its sustainable energy portfolio. | chat_gpt,claude,google |
 | ETR | Entergy Corporation operates several nuclear power plants and is poised to benefit from the trend towards sustainable energy solutions. | chat_gpt,google |
 | EXC | Exelon Corporation is one of the largest nuclear power plant operators in the U.S., benefiting directly from the trend towards sustainable energy. | chat_gpt,claude,google |
 | FLR | Fluor Corporation is involved in the construction and maintenance of nuclear power plants, benefiting indirectly from the increased demand. | chat_gpt,claude |
@@ -80,11 +78,10 @@ with open('theme.csv') as file:
 | NXE |  | twitter,google |
 | UEC |  | twitter,google |
 | UUUU |  | twitter,google |
-| BHP |  | google |
 | EU |  | google |
-| PEG |  | google |
 | URG |  | google |
-| OKLO |  |  experts |
+| OKLO |  | experts |
+| VST |  | experts |
 <!--[[[end]]]-->
 
 ## License
