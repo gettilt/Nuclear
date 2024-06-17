@@ -5,7 +5,7 @@ with open('config.json') as file:
   config = json.load(file)
   cog.outl(f"# {config['name'].title()}")
 ]]]-->
-# Nuclear Energy
+# Nuclear For Ai
 <!--//[[[end]]]-->
 
 ## Mission
